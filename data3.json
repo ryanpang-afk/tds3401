@@ -1,0 +1,86 @@
+[
+    {
+        "region": "North", 
+        "sales": [
+            {
+                "salesValue": 32000, 
+                "quarter": "Q1"
+            }, 
+            {
+                "salesValue": 46000, 
+                "quarter": "Q2"
+            }, 
+            {
+                "salesValue": 48000, 
+                "quarter": "Q3"
+            }, 
+            {
+                "salesValue": 32000, 
+                "quarter": "Q4"
+            }
+        ]
+    }, 
+    {
+        "region": "South", 
+        "sales": [
+            {
+                "salesValue": 45000, 
+                "quarter": "Q1"
+            }, 
+            {
+                "salesValue": 60000, 
+                "quarter": "Q2"
+            }, 
+            {
+                "salesValue": 62000, 
+                "quarter": "Q3"
+            }, 
+            {
+                "salesValue": 53000, 
+                "quarter": "Q4"
+            }
+        ]
+    }, 
+    {
+        "region": "East", 
+        "sales": [
+            {
+                "salesValue": 54000, 
+                "quarter": "Q1"
+            }, 
+            {
+                "salesValue": 58000, 
+                "quarter": "Q2"
+            }, 
+            {
+                "salesValue": 55000, 
+                "quarter": "Q3"
+            }, 
+            {
+                "salesValue": 57000, 
+                "quarter": "Q4"
+            }
+        ]
+    }, 
+    {
+        "region": "West", 
+        "sales": [
+            {
+                "salesValue": 60000, 
+                "quarter": "Q1"
+            }, 
+            {
+                "salesValue": 70000, 
+                "quarter": "Q2"
+            }, 
+            {
+                "salesValue": 74000, 
+                "quarter": "Q3"
+            }, 
+            {
+                "salesValue": 60000, 
+                "quarter": "Q4"
+            }
+        ]
+    }
+]
