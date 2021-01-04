@@ -1,0 +1,86 @@
+[
+    {
+        "categorie": "North", 
+        "values": [
+            {
+                "value": 32000, 
+                "rate": "Q1"
+            }, 
+            {
+                "value": 46000, 
+                "rate": "Q2"
+            }, 
+            {
+                "value": 48000, 
+                "rate": "Q3"
+            }, 
+            {
+                "value": 32000, 
+                "rate": "Q4"
+            }
+        ]
+    }, 
+    {
+        "categorie": "South", 
+        "values": [
+            {
+                "value": 45000, 
+                "rate": "Q1"
+            }, 
+            {
+                "value": 60000, 
+                "rate": "Q2"
+            }, 
+            {
+                "value": 62000, 
+                "rate": "Q3"
+            }, 
+            {
+                "value": 53000, 
+                "rate": "Q4"
+            }
+        ]
+    }, 
+    {
+        "categorie": "East", 
+        "values": [
+            {
+                "value": 54000, 
+                "rate": "Q1"
+            }, 
+            {
+                "value": 58000, 
+                "rate": "Q2"
+            }, 
+            {
+                "value": 55000, 
+                "rate": "Q3"
+            }, 
+            {
+                "value": 57000, 
+                "rate": "Q4"
+            }
+        ]
+    }, 
+    {
+        "categorie": "West", 
+        "values": [
+            {
+                "value": 60000, 
+                "rate": "Q1"
+            }, 
+            {
+                "value": 70000, 
+                "rate": "Q2"
+            }, 
+            {
+                "value": 74000, 
+                "rate": "Q3"
+            }, 
+            {
+                "value": 60000, 
+                "rate": "Q4"
+            }
+        ]
+    }
+]
